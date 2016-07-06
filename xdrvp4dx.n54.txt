@@ -1,0 +1,29 @@
+﻿initial repository commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   ccode_intensity.py
+#	new file:   ccode_run.py
+#	new file:   pkl/ccodeViia7_GS_20160628_run2.pkl
+#	new file:   scripts/'''test_plots.py'''
+#	new file:   scripts/__init__.py
+#	new file:   scripts/__pycache__/release_ccode_import_20160701.cpython-35.pyc
+#	new file:   scripts/analysis_utilfuncs.py
+#	new file:   scripts/analysis_utilfuncs.pyc
+#	new file:   scripts/ccode_import_example.py
+#	new file:   scripts/ccode_lib_import.py
+#	new file:   scripts/ccode_lib_import.pyc
+#	new file:   scripts/ccode_lib_import_utilfuncs.py
+#	new file:   scripts/ccode_lib_import_utilfuncs.pyc
+#	new file:   scripts/jy_lib_sigproc.py
+#	new file:   scripts/jy_utilfuncs.py
+#	new file:   scripts/release_ccode_analyze_20160701.py
+#	new file:   scripts/release_ccode_analyze_20160701.pyc
+#	new file:   scripts/release_ccode_import_20160701.py
+#	new file:   scripts/release_ccode_import_20160701.pyc
+#	new file:   scripts/test_plots.py
+#
+
